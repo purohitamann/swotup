@@ -1,7 +1,7 @@
 # Swot-Up 📚  
 **Turn notes and PDFs into interactive flashcards—powered by AI!**
 <img width="1441" alt="image" src="https://github.com/user-attachments/assets/dff943f7-d409-4672-92ee-6e5255f4f4f0" />
-(Video demo:)[https://youtu.be/96gq_ajOy6A?si=TkdrTBvAW3M5c_wY]
+Video demo:[https://youtu.be/96gq_ajOy6A?si=TkdrTBvAW3M5c_wY]
 Swot-Up is your smart study companion that transforms study material into bite-sized flashcards in seconds. Upload text, paste content, or even submit a PDF, and let Swot-Up do the heavy lifting. It's studying made simple, efficient, and fun!
 
 ---
